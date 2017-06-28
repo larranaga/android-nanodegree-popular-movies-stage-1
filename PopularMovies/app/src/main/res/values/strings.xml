@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="error_message">Please check your internet connection</string>
+    <string name="refresh">Refresh</string>
+    <string name="by_popularity">By Popularity</string>
+    <string name="by_rating">By Rating</string>
+</resources>
